@@ -1,0 +1,11 @@
+{
+  "python.pythonPath": "/media/ishwor/G/anaconda3/envs/flaskapp/bin/python",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "python.linting.flake8Enabled": false,
+  "python.linting.pylintArgs": [
+    "--load-plugins",
+    "pylint-flask"
+  ],
+  "editor.formatOnSave": false
+}
